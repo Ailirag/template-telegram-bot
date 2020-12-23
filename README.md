@@ -3,16 +3,26 @@
 This is the template for telegram bot
 
 struct:
-├── app.db
-├── app.py
-├── bot
-│   ├── __init__.py
-│   ├── models.py
-│   ├── routes.py
-│   └── service.py
-├── config.py
-├── README.md
-├── requirements.txt
+
+  app.db
+  
+  app.py
+  
+  bot
+  
+      __init__.py
+      
+      models.py
+      
+      routes.py
+      
+      service.py
+      
+  config.py
+  
+  README.md
+  
+  requirements.txt
 
 Make sure that wheel is already installed or 'pip install wheel'
 
