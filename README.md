@@ -1,4 +1,4 @@
-# myTelegramBotv2
+# template-telegram-bot
 
 This is the template for telegram bot
 
